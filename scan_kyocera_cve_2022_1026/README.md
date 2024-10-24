@@ -5,7 +5,7 @@ exp_kyocera.py - a little modified public exploit (Author: Aaron Herndon, @ac3li
 scan_kyocera.py - scans network and checks if IP address is vulnerable to CVE-022-1026
 
 
-[!] Port TCP 9091 should be accessible from your host
+[!] Port TCP 9091 should be accessible from your host\n
 [!] There should be at least one record in address book of kyocera device
 
 To run: 
