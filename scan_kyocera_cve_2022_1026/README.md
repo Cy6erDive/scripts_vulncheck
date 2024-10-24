@@ -2,6 +2,7 @@
 While many IT teams focus on more obvious network intrusions, printers and copiers often cascade down the list of priorities. The hackers know this. 
 
 exp_kyocera.py - a little modified public exploit (Author: Aaron Herndon, @ac3lives (Rapid7))
+
 scan_kyocera.py - scans network and checks if IP address is vulnerable to CVE-022-1026
 
 
