@@ -1,0 +1,8 @@
+# ignore everything
+*
+
+!.gitignore
+!README.md
+
+!scan_kyocera_cve_2022_1026/
+!scan_kyocera_cve_2022_1026/**
